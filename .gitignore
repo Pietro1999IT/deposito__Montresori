@@ -1,0 +1,11 @@
+datasets/
+giornata_16_09/.env
+giornata_16_09/rag/
+.venv/
+giornata_17_09/prova_venv/
+giornata_17_09/.github/
+giornata_22_09/crew_research/.env
+#all folder names of .env
+**/env
+#all folder names of .venv
+**/venv/
